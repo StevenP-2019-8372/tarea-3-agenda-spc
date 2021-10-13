@@ -1,0 +1,21 @@
+.bt{
+color: rgb(0, 0, 0);
+background-color:blueviolet;
+}
+
+.bh{
+	color: rgb(0, 0, 0);
+	background-color:blueviolet;
+}
+
+li {
+	margin-bottom: 7px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	color: rgb(81, 0, 105);
+}
+h1{
+	font-style: italic;
+	color: rgb(0, 0, 0);
+	background-color: blueviolet;
+}
